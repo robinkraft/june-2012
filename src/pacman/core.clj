@@ -71,7 +71,7 @@
                       (stroke 255)
                       (ellipse @X @Y @radius @radius)
                       (ellipse @gX @gY @radius @radius)
-                      (save "proc_example1.png")
+                      ;;(save "proc_example1.png")
                       ))
                (keyPressed ;; part of incanter.processing api
                     [key-event]
